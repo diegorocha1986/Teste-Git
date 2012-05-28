@@ -3,7 +3,7 @@
 */
 
 
-$(document).ready(function(){
+$(function(){
 	
 	$('li').css('background','yellow');
 	$('dt').css('background','green');
